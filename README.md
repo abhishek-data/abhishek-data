@@ -1,6 +1,6 @@
 ## Hello👋 I'm Abhishek 👩🏻‍💻
 
-I am a fullstack developer from India 🇮🇳 I am working as a Frontend Developer at  [theoceann.com](https://theoceann.com/)
+I am a Frontend developer from India 🇮🇳 I am working as a React Developer at  [theoceann.com](https://theoceann.com/)
 
 ### Currently I am working with ...
 

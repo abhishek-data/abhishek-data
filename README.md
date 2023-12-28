@@ -1,4 +1,4 @@
-## Hello👋 I'm Abhishek 👩🏻‍💻
+## Hello👋 I'm Abhishek 
 
 I am a Frontend developer from India 🇮🇳 I am working as a React Developer at  [theoceann.com](https://theoceann.com/)
 

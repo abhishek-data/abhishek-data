@@ -1,6 +1,6 @@
 ## Hello👋 I'm Abhishek 
 
-I am a Frontend developer from India 🇮🇳, specializing in Next.js and React. Currently, I am working as a React Developer at [Infyni](https://infyni.com/).
+I am a Frontend developer from India 🇮🇳, specializing in Next.js and React. Currently, I am working as a Next.js Developer at [Infyni](https://infyni.com/).
 
 ### Currently I am working with ...
 

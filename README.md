@@ -66,12 +66,6 @@ const abhishek = {
 };
 ```
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishek-data&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-data&layout=compact&theme=radical&hide_border=true)
-
 ## 🔗 Let's Connect
 
 I'm always interested in collaborating on innovative projects, especially those involving modern web technologies and AI integration. Feel free to reach out!

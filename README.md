@@ -32,4 +32,4 @@ Cross-platform voice notes — Next.js web + Expo mobile in a Turborepo, with Ge
 
 ## Elsewhere
 
-[Portfolio](https://portfolio-abhishekkr.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/abhishek1915/) · [X](https://twitter.com/abhishekkr1915) · abhishekkr1915@gmail.com
+[Portfolio](https://abhishek-data.github.io) · [LinkedIn](https://www.linkedin.com/in/abhishek1915/) · [X](https://twitter.com/abhishekkr1915) · abhishekkr1915@gmail.com

@@ -6,7 +6,7 @@ Lately I build **local-first, AI-powered developer tools** — including a Rust 
 
 ## What I'm building
 
-### [PIE — Personal Intent Engine](https://github.com/abhishek-data/personal-intent-engine)
+### [PIE — Personal Intent Engine](https://github.com/abhishekswe/personal-intent-engine)
 
 Voice → structured prompt, delivered to your cursor in any app.
 
@@ -14,13 +14,13 @@ Voice → structured prompt, delivered to your cursor in any app.
 - Intent extraction that turns rambling speech into structured, production-ready prompts
 - Layered pronunciation corrector for developer jargon ("next jazz" → Next.js), with a context-gated phonetic tier so ordinary words are never falsely corrected
 - Rust + Tauri 2 + Svelte 5 · ships as a desktop app, CLI, and Rust crate
-- Signed releases, [Homebrew tap](https://github.com/abhishek-data/homebrew-pie), integration tests with a mock-LLM harness
+- Signed releases, [Homebrew tap](https://github.com/abhishekswe/homebrew-pie), integration tests with a mock-LLM harness
 
-### [DevVault](https://github.com/abhishek-data/Devvault)
+### [DevVault](https://github.com/abhishekswe/Devvault)
 
 Local-first developer knowledge base. TipTap block editor, IndexedDB storage, fuzzy search with block-level deep linking, GitHub sync with conflict resolution. Next.js 14 + strict TypeScript.
 
-### [VoiceNote AI](https://github.com/abhishek-data/voicenote)
+### [VoiceNote AI](https://github.com/abhishekswe/voicenote)
 
 Cross-platform voice notes — Next.js web + Expo mobile in a Turborepo, with Gemini transcription and multi-register text refinement through a shared client package.
 
@@ -32,4 +32,4 @@ Cross-platform voice notes — Next.js web + Expo mobile in a Turborepo, with Ge
 
 ## Elsewhere
 
-[Portfolio](https://abhishek-data.github.io) · [LinkedIn](https://www.linkedin.com/in/abhishek1915/) · [X](https://twitter.com/abhishekkr1915) · abhishekkr1915@gmail.com
+[Portfolio](https://abhishekswe.github.io) · [LinkedIn](https://www.linkedin.com/in/abhishek1915/) · [X](https://twitter.com/abhishekkr1915) · abhishekkr1915@gmail.com

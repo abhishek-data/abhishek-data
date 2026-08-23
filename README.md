@@ -1,6 +1,6 @@
-# Hi, I'm Abhishek Kumar
+# Abhishek Kumar (@abhishekswe)
 
-Software engineer in Gurugram, India. 4+ years of professional frontend work with **React, Next.js, and TypeScript** — currently building e-commerce platforms for [Magrabi](https://www.magrabi.com/sa-en/) and [Doctor M](https://www.doctor-m.com/sa-en/) at Forchunex IT Consultancy. Previously built live-learning products at [Infyni](https://www.infyni.com).
+Software engineer in Gurugram, India — portfolio at [abhishekswe.github.io](https://abhishekswe.github.io). 4+ years of professional frontend work with **React, Next.js, and TypeScript** — currently building e-commerce platforms for [Magrabi](https://www.magrabi.com/sa-en/) and [Doctor M](https://www.doctor-m.com/sa-en/) at Forchunex IT Consultancy. Previously built live-learning products at [Infyni](https://www.infyni.com).
 
 Lately I build **local-first, AI-powered developer tools** — including a Rust desktop app that turns speech into structured prompts entirely on-device.
 
@@ -32,4 +32,4 @@ Cross-platform voice notes — Next.js web + Expo mobile in a Turborepo, with Ge
 
 ## Elsewhere
 
-[Portfolio](https://abhishekswe.github.io) · [LinkedIn](https://www.linkedin.com/in/abhishekkr-swe/) · [X](https://x.com/abhishekswe) · abhishekkr1915@gmail.com
+I'm **@abhishekswe** everywhere: [Portfolio](https://abhishekswe.github.io) · [LinkedIn](https://www.linkedin.com/in/abhishekkr-swe/) · [X](https://x.com/abhishekswe) · abhishekkr1915@gmail.com
